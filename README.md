@@ -159,7 +159,7 @@ Dagu can be built and run locally from source.
 
 Make sure you have the following installed on your system:
 
-- [Go 1.23 or later](https://go.dev/doc/install)
+- [Go 1.24 or later](https://go.dev/doc/install)
 - [Node.js (Latest LTS or Current)](https://nodejs.org/en/download/)
 - [Yarn](https://yarnpkg.com/)
 

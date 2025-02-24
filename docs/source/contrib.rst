@@ -62,7 +62,7 @@ Please refer to `Conventional Commits <https://www.conventionalcommits.org>`_ fo
 Prerequisite
 -------------
 
-* `Go version 1.23 or later. <https://go.dev/doc/install>`_
+* `Go version 1.24 or later. <https://go.dev/doc/install>`_
 * Latest version of `Node.js <https://nodejs.org/en/download/>`_.
 * `yarn <https://yarnpkg.com/>`_ package manager.
 

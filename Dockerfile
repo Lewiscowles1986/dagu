@@ -8,7 +8,7 @@ RUN rm -rf node_modules; \
   yarn build
 
 # Stage 2: Go Builder
-FROM --platform=$TARGETPLATFORM golang:1.23-alpine as go-builder
+FROM --platform=$TARGETPLATFORM golang:1.24-alpine as go-builder
 ARG LDFLAGS
 ARG TARGETOS
 ARG TARGETARCH
